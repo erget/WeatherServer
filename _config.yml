@@ -1,0 +1,9 @@
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      author: "Daniel Lee (@erget)"
+
