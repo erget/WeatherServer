@@ -1,5 +1,5 @@
 ---
-title: This is my title
+title: Full Stack Embedded: Empowering through technology
 ---
 
 #Hello world!
