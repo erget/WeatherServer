@@ -1,5 +1,5 @@
 ---
-title: Full Stack Embedded: Empowering through technology
+title: "Full Stack Embedded: Empowering through technology"
 ---
 
 #Hello world!
